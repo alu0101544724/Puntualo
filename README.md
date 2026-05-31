@@ -1,6 +1,5 @@
 <div align="center">
   <img src="client/public/Logo_white.svg" alt="Puntualo Logo" width="400"/>
-
   <br><br>
 
   <a href="https://drive.google.com/file/d/1Yi2tB9Lmu4R6UZe0m4IqwRjiPfxa1z9p/view?usp=sharing">
