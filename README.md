@@ -1,9 +1,17 @@
 <div align="center">
   <img src="client/public/Logo_white.svg" alt="Puntualo Logo" width="400"/>
-  
+
+  <br><br>
+
+  <a href="https://drive.google.com/file/d/1Yi2tB9Lmu4R6UZe0m4IqwRjiPfxa1z9p/view?usp=sharing">
+    <img src="client/public/demo.png" alt="Ver demostración de Puntualo" width="800"/>
+  </a>
+
+  <p>
+    <strong>🎥 Haz clic para ver la demostración completa</strong>
+  </p>
+
   # 🎬 Puntualo.com — Red Social Cultural
-  
-  ### _Comparte, descubre y conecta a través del entretenimiento_
   
   [![Node.js](https://img.shields.io/badge/Node.js-20.19.0+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
   [![Vue.js](https://img.shields.io/badge/Vue.js-3.5-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
